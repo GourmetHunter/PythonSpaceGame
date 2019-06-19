@@ -1,6 +1,6 @@
 import pygame
 
-class MainMenu():
+class Pause():
 	def update(self):
 		print("Update")
 

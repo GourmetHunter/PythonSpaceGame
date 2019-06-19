@@ -1,6 +1,6 @@
 import pygame
 
-class MainMenu():
+class GameMenu():
 	def update(self):
 		print("Update")
 
