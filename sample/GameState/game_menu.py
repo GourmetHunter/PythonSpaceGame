@@ -1,6 +1,8 @@
+import pygame
+
 class MainMenu():
 	def update(self):
 		print("Update")
 
-	def draw(self):
+	def draw(self, screen):
 		print("Draw")
